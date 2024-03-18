@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xyr_portrait.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 506</p>
+    <p>Building 1, Room 506</p>
     <p>No. 568 Tongxin Road</p>
     <p>Zhenhai District, Ningbo, Zhejiang, China</p>
 
