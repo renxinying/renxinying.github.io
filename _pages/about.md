@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Eastern Institute of Technology, Ningbo</a>. Email:xren@eitech.edu.cn.
 
 profile:
   align: right
