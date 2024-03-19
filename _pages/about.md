@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eitech.edu.cn/?lang=en'> Eastern Institute of Technology, Ningbo</a>. Email: xren@eitech.edu.cn.
+subtitle: <a href='https://www.eitech.edu.cn'> Eastern Institute of Technology, Ningbo</a>. Email: xren@eitech.edu.cn.
 
 profile:
   align: right
