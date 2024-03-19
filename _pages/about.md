@@ -18,7 +18,10 @@ news: true # includes a list of news items
 #social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Yongjiang Youth Independent Fellow at EIT in Ningbo, China.
+I’m a Yongjiang Youth Independent Fellow at EIT in Ningbo, China. My research is in the application of control and dynamical systems theory to systems and synthetic biology.
+
+
+to synthetic biology advances in the laboratory into the deployment environment, with a particular focus on applications related to sustainability.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
