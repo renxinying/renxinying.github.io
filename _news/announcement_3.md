@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-3
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Looking for motivated students and research assitants to join the group. Please send an introductory email with CV to the address: xren@eitech.edu.cn.
