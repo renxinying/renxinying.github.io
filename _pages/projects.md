@@ -1,11 +1,11 @@
 ---
 layout: page
 title: research
-permalink: /projects/
-description: Ongoing, future and past research threads with accessible introductions.
+permalink: /research/
+description: My past, ongoing and future research projects include creating reliable and scaleble 'living machines' using synthetic biology technology, investigating foundamental microbial physiology questions of adaptation and evolution in various environments, and developing models and computational tools for simulating dynamics in biological systems.
 nav: true
 nav_order: 3
-display_categories: [ongoing, past]
+display_categories: [future, ongoing, past]
 horizontal: false
 ---
 
