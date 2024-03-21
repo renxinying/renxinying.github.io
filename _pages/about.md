@@ -20,9 +20,10 @@ news: true # includes a list of news items
 
 I’m a Yongjiang Youth Independent Fellow at EIT in Ningbo, China. My research is in the application of control and dynamical systems theory to systems and synthetic biology. I focus on developing theoretical frameworks and design principles of biomolecular control circuits in living cells and multicellular communities. A core foundamental question I am interested in is realizing stable and robust functionality and performance in engineered biological systems, despite uncertainties and disturbances from cellular dynamics to environmental fluctuations across various time and spatial scales. I employ interdisciplinary approaches, integrating multiscale modeling and computation, synthetic biology techniques, and advanced data analysis and learning algorithms to address this challenge. My goal is to translate these research findings into practical engineering applications, including bioproduction, biosensing, biocomputation, and biomedicine.
 
+I received my Ph.D. in Control and Dynamical Systems from California Institute of Technology, under the supervision of [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page). Before this, I received a B.E. from the Department of Automation at Tsinghua University.
 
 
-to synthetic biology advances in the laboratory into the deployment environment, with a particular focus on applications related to sustainability.
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
