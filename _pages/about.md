@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eitech.edu.cn/?lang=en'> Eastern Institute of Technology (EIT), Ningbo</a>. Email:</a>xren@eitech.edu.cn.
+subtitle: <a href='https://www.eitech.edu.cn/?lang=en'> Eastern Institute of Technology(EIT), Ningbo</a>. Email:</a>xren@eitech.edu.cn.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>No. 568 Tongxin Road</p>
     <p>Zhenhai District, Ningbo, Zhejiang, China</p>
 
-#news: true # includes a list of news items
+news: true # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 #social: true # includes social icons at the bottom of the page
 ---
