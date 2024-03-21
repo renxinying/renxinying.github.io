@@ -19,13 +19,12 @@ interconnections that guarantee stable and robust population level behaviors?
 
 Let us consider the incoherent feed-forward loop (IFFL) motif in systems biology that is widely regarded as an architecture used in gene regulatory networks to achieve adaptation to environmental disturbances. 
 A simlpe IFFL motif is of the following form (panel a).
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/fig-cell-pop motif.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/fig-cell-pop motif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A simple IFFL motif and its two implementations. (a) The motif diagram of this simple IFFL. (b) One implementation of the IFFL, with negative regulation implemented via catalyzed degradation. (c) Another implementation of the IFFL, with negative regulation implemented via inhibition of production, or repressive binding.
+    This image can also have a caption. It's like magic.
 </div>
 
 #### Defining and characterizing population and communication modules for standard design of multicelluar systems
