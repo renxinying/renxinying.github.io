@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.eitech.edu.cn/?lang=en'> Eastern Institute of Technology, Ningbo</a>. Email:xren@eitech.edu.cn.
+subtitle: <a href='https://www.eitech.edu.cn/?lang=en'> Eastern Institute of Technology, Ningbo</a>. Email:</a>xren@eitech.edu.cn.
 
 profile:
   align: right
@@ -18,7 +18,12 @@ news: true # includes a list of news items
 #social: true # includes social icons at the bottom of the page
 ---
 
-I’m a Yongjiang Youth Independent Fellow at EIT in Ningbo, China. My research is in the application of control and dynamical systems theory to systems and synthetic biology.
+I’m a Yongjiang Youth Independent Fellow at EIT in Ningbo, China. My research is in the application of control and dynamical systems theory to systems and synthetic biology. I focus on developing theory foundations and design principles of biomolecular control circuits in living cells and multicellular communities. A core foundamental question I am interested in is realizing stable and robust functionality and performance in engineered biological systems, in the applications of bioproduction, biosensing, biocomputation, biomedicine, and etc.
+
+
+I approach this goal both from the engineering angle, by developing new theoretical frameworks and molecular implementations for genetic circuit design, and from the scientific angle, by studying fundamental questions about gene regulation and microbial physiology in variable environments. Please see the Research page for more details.
+
+model-based analysis, design, and implementation of biomolecular control circuits in living cells and multicellular communities. My goal  
 
 
 to synthetic biology advances in the laboratory into the deployment environment, with a particular focus on applications related to sustainability.
