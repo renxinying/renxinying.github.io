@@ -9,11 +9,24 @@ category: ongoing
 
 In synthetic biology, we hope to generate tunable and characterized biological modules, and design and implement biological circuits by rewiring these modules to achieve novel functions in living organisms. These functions often depend on stable, robust and controllable gene expression and metabolism in cellular systems, therefore cells can be seen
 as reliable 'living machines' without catastrophic failures. Control theory has arisen as a fundamental theory in engineering biological circuits [1]. In previous studies, biological circuits (or bio-controllers) were investigated and integrated at single-cell level, where they function independently in regulating each individual cell. However, cells only function as ‘living machines’ when they gather as a group or even larger multicellular
-communities. Therefore, engineering biological circuits to realize stable and robust population level behaviors and population-environmental interactions become a new task for synthetic biologists. Given the increasing complexity of multicellular communities from single-cell to population scales, new essential
+communities. Therefore, engineering biological circuits to realize stable and robust population level behaviors and population-environmental interactions become a new task for synthetic biologists. 
+
+Given the increasing complexity of multicellular communities from single-cell to population scales, new essential
 engineering questions emerge: 1) What are tunable and characterized biological modules to control population level dynamics? 2) What are theory foundations and design principles for module
 interconnections that guarantee stable and robust population level behaviors?
 
 #### Emerging stability and robustness from single-cell to population scale via stochasticity and heterogeneity
+
+Let us consider the incoherent feed-forward loop (IFFL) motif in systems biology that is widely regarded as an architecture used in gene regulatory networks to achieve adaptation to environmental disturbances. 
+A simlpe IFFL motif is of the following form (panel a).
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="{{ '/assets/img/fig-cell-pop motif.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    A simple IFFL motif and its two implementations. (a) The motif diagram of this simple IFFL. (b) One implementation of the IFFL, with negative regulation implemented via catalyzed degradation. (c) Another implementation of the IFFL, with negative regulation implemented via inhibition of production, or repressive binding.
+</div>
 
 #### Defining and characterizing population and communication modules for standard design of multicelluar systems
 
