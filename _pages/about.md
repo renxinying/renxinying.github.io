@@ -13,9 +13,9 @@ profile:
     <p>No. 568 Tongxin Road</p>
     <p>Zhenhai District, Ningbo, Zhejiang, China</p>
 
-#news: true # includes a list of news items
-#selected_papers: true # includes a list of papers marked as "selected={true}"
-#social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a Yongjiang Youth Independent Fellow at EIT in Ningbo, China. My research is in the application of control and dynamical systems theory to systems and synthetic biology. I focus on developing theoretical frameworks and design principles of biomolecular control circuits in living cells and multicellular communities. A core foundamental question I am interested in is realizing stable and robust functionality and performance in engineered biological systems, despite uncertainties and disturbances from cellular dynamics to environmental fluctuations across various time and spatial scales. To address this challenge, I employ interdisciplinary approaches, integrating multiscale modeling and computation, synthetic biology techniques, and advanced data analysis and learning algorithms. My ultimate goal is to translate these research findings into practical engineering applications, including bioproduction, biosensing, biocomputation, and biomedicine.
