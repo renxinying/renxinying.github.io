@@ -18,7 +18,7 @@ Given the increasing complexity of multicellular communities from single-cell to
 2) What are theory foundations and design principles for module interconnections that guarantee stable and robust population level behaviors?
 
 
-#### Emerging stability and robustness from single-cell to population scale via stochasticity and heterogeneity
+
 
 Let us consider the incoherent feed-forward loop (IFFL) motif in systems biology that is widely regarded as an architecture used in gene regulatory networks to achieve adaptation to environmental disturbances. 
 A simlpe IFFL motif is of the following form (panel a).
@@ -30,7 +30,6 @@ A simlpe IFFL motif is of the following form (panel a).
     This image can also have a caption. It's like magic.
 </div>
 
-#### Defining and characterizing population and communication modules for standard design of multicelluar systems
 
 
 <!-- #### A holistic comparison of activator vs. repressor
