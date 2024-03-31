@@ -1,0 +1,31 @@
+---
+layout: page
+title: Spatial-temporal evolution of interspecies interactions
+description:
+img: /assets/img/fig-interaction.png
+importance: 1
+category: ongoing
+---
+
+The spatial-temporal evolution of interspecies interactions in multicellular communities plays an important role for them to survive, adapt and perform functions in certain environments.
+On the one hand, interspecies interactions facilitate self-organized spatial structures. For example, cell populations grow or actively migrate towards nutrients through cross-feeding interactions.
+Interspecies killing also restructures a community via contact-based inhibition or diffusible toxins.
+On the other hand, the efficiency of interspecies interactions is strongly impacted by the physical location and distance of cells in defined spatial environments.
+Thererfore, the interspecies interactions and spatial environments co-evolve to maintain long-term stability.
+
+We are particularly interested in why certain spatial structures in multicellular communities provide benefits for cells to survive changing environments and how cell populations self-organize into such spatial structures.
+By investigating the mechanisms of the spatial-temportal evolution of interspecies interactions, we are able to engineer synthetic circuits that perform diverse interactions and achieve stable coexistence and robustness to environmental disturbances.
+
+
+
+#### Emerging stability and robustness from single-cell to population scale via stochasticity and heterogeneity
+
+Let us consider the incoherent feed-forward loop (IFFL) motif in systems biology that is widely regarded as an architecture used in gene regulatory networks to achieve adaptation to environmental disturbances. 
+A simlpe IFFL motif is of the following form (panel a).
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fig-cell-pop motif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
