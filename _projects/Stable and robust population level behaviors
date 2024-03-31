@@ -7,13 +7,16 @@ importance: 1
 category: ongoing
 ---
 
-In synthetic biology, we hope to generate tunable and characterized biological modules, and design and implement biological circuits by rewiring these modules to achieve novel functions in living organisms. These functions often depend on stable, robust and controllable gene expression and metabolism in cellular systems, therefore cells can be seen
-as reliable 'living machines' without catastrophic failures. Control theory has arisen as a fundamental theory in engineering biological circuits [1]. In previous studies, biological circuits (or bio-controllers) were investigated and integrated at single-cell level, where they function independently in regulating each individual cell. However, cells only function as ‘living machines’ when they gather as a group or even larger multicellular
-communities. Therefore, engineering biological circuits to realize stable and robust population level behaviors and population-environmental interactions become a new task for synthetic biologists. 
 
-Given the increasing complexity of multicellular communities from single-cell to population scales, new essential
-engineering questions emerge: 1) What are tunable and characterized biological modules to control population level dynamics? 2) What are theory foundations and design principles for module
-interconnections that guarantee stable and robust population level behaviors?
+In synthetic biology, we hope to generate tunable and characterized biological modules, and design and implement biological circuits by rewiring these modules to achieve novel functions in living organisms. 
+These functions often depend on stable, robust and controllable gene expression and metabolism in cellular systems, therefore cells can be seen as reliable 'living machines' without catastrophic failures. 
+Control theory has arisen as a fundamental theory in engineering biological circuits [1]. In previous studies, biological circuits (or bio-controllers) were investigated and integrated at single-cell level, where they function independently in regulating each individual cell. 
+However, cells only function as ‘living machines’ when they gather as a group or even larger multicellular communities. 
+
+Therefore, engineering biological circuits to realize stable and robust population level behaviors and population-environmental interactions become a new task for synthetic biologists.
+Given the increasing complexity of multicellular communities from single-cell to population scales, new essential engineering questions emerge: 1) What are tunable and characterized biological modules to control population level dynamics? 
+2) What are theory foundations and design principles for module interconnections that guarantee stable and robust population level behaviors?
+
 
 #### Emerging stability and robustness from single-cell to population scale via stochasticity and heterogeneity
 
@@ -27,7 +30,7 @@ A simlpe IFFL motif is of the following form (panel a).
     This image can also have a caption. It's like magic.
 </div>
 
-#### Defining and characterizing population and communication modules for standard design of multicelluar systems
+#### Defining and characterizing population and communication modules for standard design of multicelluar systems
 
 
 <!-- #### A holistic comparison of activator vs. repressor
