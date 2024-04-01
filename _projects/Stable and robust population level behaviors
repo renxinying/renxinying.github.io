@@ -9,19 +9,11 @@ category: ongoing
 
 
 In synthetic biology, we hope to generate tunable and characterized biological modules, and design and implement biological circuits by rewiring these modules to achieve novel functions in living organisms. 
-These functions often depend on stable, robust and controllable gene expression and metabolism in cellular systems, therefore cells can be seen as reliable 'living machines' without catastrophic failures. 
-Control theory has arisen as a fundamental theory in engineering biological circuits [1]. In previous studies, biological circuits (or bio-controllers) were investigated and integrated at single-cell level, where they function independently in regulating each individual cell. 
-However, cells only function as ‘living machines’ when they gather as a group or even larger multicellular communities. 
+These functions often depend on stable, robust and controllable gene expression, metabolism, and intercellular interactions, therefore cells can function as reliable 'living machines' in a group or community without catastrophic failures.
+To engineer biological circuits that realize stable and robust population level behaviors, we apply feedback control mechanism as a theory foundation and investigate multiscale design principles from single-cell level to popualtion level.
 
-Therefore, engineering biological circuits to realize stable and robust population level behaviors and population-environmental interactions become a new task for synthetic biologists.
-Given the increasing complexity of multicellular communities from single-cell to population scales, new essential engineering questions emerge: 1) What are tunable and characterized biological modules to control population level dynamics? 
-2) What are theory foundations and design principles for module interconnections that guarantee stable and robust population level behaviors?
+We consider 
 
-
-
-
-Let us consider the incoherent feed-forward loop (IFFL) motif in systems biology that is widely regarded as an architecture used in gene regulatory networks to achieve adaptation to environmental disturbances. 
-A simlpe IFFL motif is of the following form (panel a).
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig-cell-pop motif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
