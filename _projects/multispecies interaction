@@ -16,8 +16,6 @@ Thererfore, the interspecies interactions and spatial environments co-evolve to 
 We are particularly interested in why certain spatial structures in multicellular communities provide benefits for cells to survive changing environments and how cell populations self-organize into such spatial structures.
 By investigating the mechanisms of the spatial-temportal evolution of interspecies interactions, we are able to engineer synthetic circuits that perform diverse interactions and achieve stable coexistence and robustness to environmental disturbances.
 
-
-
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig-interaction-chemical.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -25,3 +23,5 @@ By investigating the mechanisms of the spatial-temportal evolution of interspeci
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+
+For example, interspecies interactions can be mediated via chemical.
