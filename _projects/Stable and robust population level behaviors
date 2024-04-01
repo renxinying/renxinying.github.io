@@ -12,16 +12,15 @@ In synthetic biology, we hope to generate tunable and characterized biological m
 These functions often depend on stable, robust and controllable gene expression, metabolism, and intercellular interactions, therefore cells can function as reliable 'living machines' in a group or community without catastrophic failures.
 To engineer biological circuits that realize stable and robust population level behaviors, we apply feedback control mechanism as a theory foundation and investigate multiscale design principles from single-cell level to popualtion level.
 
-We consider 
-
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fig-cell-pop motif.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/fig-cell-pop motif.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
 
+We consider each single cell as a dynamical system with its own input/output dynamics of gene expression and metabolism. 
 
 
 <!-- #### A holistic comparison of activator vs. repressor
