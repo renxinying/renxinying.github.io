@@ -1,1 +1,38 @@
+---
+layout: page
+title: Microbial thermogenesis and heat-mediated interactions
+description:
+img: /assets/img/fig-thermogenesis.png
+importance: 1
+category: ongoing
+---
+
+Catabolism yields ATP and intrinsically generates metabolic heat. A cell uses ATP to drive cellular mainte-
+nance and growth. For years it was assumed that bacteria utilizes ATP efficiently, meaning biomass production
+in growth is efficient from standard biosynthesis. However, observed biomass production is 3-to-10 fold or more
+lower than predicted.Why do bacteria spill energy and deliberately dissipate ATP? To understand the varying
+growth efficiency, we need to measure and calculate ATP generation, biomass production and heat generation
+accurately. Therefore, we utilize genetic engineering techniques that induce high heat production in E.coli and measure heat production via high resolution temperature-sensitive nanoprobes.
+
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fig-nanothermometer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
+Heat is not just a byproduct from catabolism. Metabolic heat can alter local temperature, and microbes differ on their optimal survival and growth temperature.
+A microbe that raises the
+local temperature closer to its own optimum gains a growth advantage over other competitors.
+Several examples in natural microbes suggest excess heat is a public good that benefits neighbors. Some
+organisms increase dark pigment to raise cellular temperature. Some other microbes contribute heat by excess
+thermogenesis and spend ATP on heat production. Groups or populations can retain heat by aggregation and
+by insulation, for example, forming biofilms.
+
+A new concept ”thermal signaling”, in which temperature variation within biological cells acts as a signal
+in a cascade of intriguing biological events, arises as an interesting topic for us. Questions are: 1. within the population, how are they cooperate since heat generators pay the
+cost of production and others exploit the public heat (heterogeneity)? 2. How to use heat as a competitive
+weapon, maybe also defend against invading bacteria?
+
 
