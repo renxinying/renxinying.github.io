@@ -20,7 +20,10 @@ To engineer biological circuits that realize stable and robust population level 
     This image can also have a caption. It's like magic.
 </div>
 
-We consider each single cell as a dynamical system with its own input/output dynamics of gene expression and metabolism. 
+We consider each single cell as a dynamical system with its own input/output response of gene expression. Then the total population level dynamics is a sum of all single cells' dynamics, forming a population level system with integrated input/output response.
+To apply population level controller, the key questions involve: 1. deriving population-level dynamics from single-cell level dynamics; 2. desiging population-level feedback control; 3. implementing control circuits at single-cell level. Due to the
+stochasticity of biomolecular reactions in cells, single-cell level dynamics may exhibit strong heterogeneity. Therefore, we focus on a set of dynamics that show emerging properties at population level from single-cell level heterogeneity, for example,
+bistable and multistable gene expression, oscillatory gene expression, etc.
 
 
 <!-- #### A holistic comparison of activator vs. repressor
