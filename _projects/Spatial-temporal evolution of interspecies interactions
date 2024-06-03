@@ -3,7 +3,7 @@ layout: page
 title: Spatial-temporal evolution of interspecies interactions
 description:
 img: /assets/img/fig-interaction.png
-importance: 1
+importance: 2
 category: past
 ---
 
@@ -24,4 +24,7 @@ By investigating the mechanisms of the spatial-temportal evolution of interspeci
     This image can also have a caption. It's like magic.
 </div>
 
-For example, interspecies interactions can be mediated via chemicals, including small signaling molecules, metabolites, toxins, etc. 
+For example, interspecies interactions can be mediated via chemicals, including small signaling molecules, metabolites, toxins, etc. Based on detailed mechanisms of signal synthesis, secretion, diffusion, uptake and their effects on receiver cells,
+we are able to build up signaling modules with input from sender cells and output from receiver cells. These signaling modules may exhibit diver input-output responses and can characterize how cell populations communicate with each other. Therefore,
+we porpose a bipartite structure of population-communication networks that can be easily upscaled to multiple cell populations and communication signaling channels. Compared to pairwise interaction network structure, now we have a more mechanistic 
+description of interactions and a more quantitative characterization of population dynamics.
