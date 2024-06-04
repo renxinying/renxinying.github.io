@@ -25,7 +25,7 @@ By investigating the mechanisms of the spatial-temportal evolution of interspeci
 mechanisms depending on if the signaling chemcal is consumed/degraded by receiver cells or accumulates. The chemical synthesis rate from cell type i is denoted by index i,
  and the chemical consumption rate by cell type j is denoted by index j. C. A bipartite structure of microbial interaction network
 that includes a population module and a communication module. The population module senses signaling chemicals as input (U) and the output is population-dependent
-chenical synthesis or comsumption (Y). The communication module takes in inputs from sender (Us) and receiver (Ur) cell populations.
+chenical synthesis or comsumption (Y). The communication module takes in inputs from sender (Us) and receiver (Ur) cell populations. 
 </div>
 
 For example, interspecies interactions can be mediated via chemicals, including small signaling molecules, metabolites, toxins, etc. Based on detailed mechanisms of signal synthesis, secretion, diffusion, uptake and their effects on receiver cells,
