@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Precise and controllable Live Bacteria Therapeitics (LBTs)
+title: Precise and controllable Live Bacteria Therapeutics (LBTs)
 description:
 img: /assets/img/fig-engineered.png
 importance: 2
 category: ongoing
 ---
 
-he human body is host to diverse microbial communities, and the complex interactions
+The human body is host to diverse microbial communities, and the complex interactions
 between the host and its microbial counterparts play a key role in human health and
 disease. How to utilize complex interactions between microbial communities and hosts
-to treat diseases, such as inflammation and tumor, become a new therapeutic strategy.
-
-
+to treat diseases, such as inflammation and tumor, become a new therapeutic strategy. 
+Live Bacteria Therapeutics (LBTs) are 
 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig-hp-probiotics.png" title="example image" class="img-fluid rounded z-depth-1" %}
