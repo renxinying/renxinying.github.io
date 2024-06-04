@@ -17,7 +17,10 @@ To engineer biological circuits that realize stable and robust population level 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Layerd structure of single-cell level dynamics and population level dynamics. A. Sketch of the population module derived from single-cell modules that consist of intracellular gene regulation networks. Intracellular gene expression is determined by an input ui and
+environmental disturbance wi and the output is the expression level of target gene yi. We consider the population level input and output are the sum of heterogeneous single cells. B. Block diagram of population module.
+C. An example of the bistale swtich circuit in a cell population. The single-cell level dynamics exhibit ON/OFF switching and the input/output response exhibits hysteresis. The population level dynamics exhibit stablized
+overall expression and ultrasensitive input/output response that only emerge from single cells.
 </div>
 
 We consider each single cell as a dynamical system with its own input/output response of gene expression. Then the total population level dynamics is a sum of all single cells' dynamics, forming a population level system with integrated input/output response.
