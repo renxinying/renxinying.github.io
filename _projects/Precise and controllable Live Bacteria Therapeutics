@@ -11,7 +11,13 @@ The human body is host to diverse microbial communities, and the complex interac
 between the host and its microbial counterparts play a key role in human health and
 disease. How to utilize complex interactions between microbial communities and hosts
 to treat diseases, such as inflammation and tumor, become a new therapeutic strategy. 
-Live Bacteria Therapeutics (LBTs) are 
+The idea of Live Bacteria Therapeutics (LBTs) is to engineer bacterial chassis to produce therapeutics that
+are able to repair or restore healthy microbial function and diversity. Existing efforts have primarily focused 
+on engineering probiotic bacterial strains from the Bacteroides or Lactobacillus families or Escherichia coli from labs.
+One challenge of using engineered probiotics as the next genereation therapy is to realize precise diagnosis and
+controllable treatment. Therefore, engineered protbiotics should sense inflammation region or pathogens and only release
+certain amount of drugs, and induce exiting or self-killing mechanisms for biocontainment.
+
 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fig-hp-probiotics.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -20,3 +26,10 @@ Live Bacteria Therapeutics (LBTs) are
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+
+We are intereted in one highly harmful pathogen, Helicobacter pylori (h. pylori), which directly leads to stomach cancer. The pathogen
+h. pylori can survive the acidic environment and implant in human stomach and release toxins that induce severe diseaese. Traditional treatment
+uses antibiotics for h. pylori eradication, yet it becomes less efficient due to the resistence of h. pylori and causes dysbiosis of the gut microbiota.
+Therefore, we are looking for engineered probiotics that are specifically designed to eradicate h. pylori while not interfering with other healthy
+microbiome. To realize precise and controllable treatment, we need to design feedback control circuit in probiotics that can sense the existence of
+h. pylori, decide if certain amount of drugs need to be released, and check the therapeutics effect and turn on exiting or self-killing procedure.
